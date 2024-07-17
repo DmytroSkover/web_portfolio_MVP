@@ -85,14 +85,9 @@ def web_portfolio():
     st.subheader("About Me")
 
     st.markdown("""
-    - 🧑‍💻🚀 I am a **Data Scientist and Gen AI developer** at [Digna AS](https://www.Digna.no/), 
-    where I am currently working on an AI platform to help simplify public information to newcomers to Norway.
-    - ❤️ I am passionate about *Machine Learning/Deep Learning, Artifical intelligence, Data Science, Software Engineering, 
-   Data Analytics, Automation*, and more!
-    - 🏂 In my free time, I enjoy practising sports such as weight lifting and chalistenics.
-    - 🪧 You can reach me at said@diga.no.
-    - 🏠 Based in Norway.
-    """)
+    - 👦 My name is Dmytro Skover 
+    - 🏠 I live in Norway with my parents and sister
+    - 🏢 l study in Ukrainian university """)
 
     st.write("##")
 
