@@ -86,8 +86,8 @@ def web_portfolio():
 
     st.markdown("""
     - 👦 My name is Dmytro Skover 
-    - 🏠 I live in Norway with my parents and sister
-    - 🏢 l study in Ukrainian university """)
+    - 🏠 I live in Norway 🇸🇯
+    - 🏢 l study in Ukrainian🇺🇦 university """)
 
     st.write("##")
 
