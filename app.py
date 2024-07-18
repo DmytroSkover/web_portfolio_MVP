@@ -3,11 +3,11 @@ from base64 import b64encode
 
 def web_portfolio():
     # page configs 
-    st.set_page_config(page_title = "Said's Portfolio",page_icon="⭐")
+    st.set_page_config(page_title = "Sleep Factorie's Portfolio",page_icon="⭐")
     # Set the page title
     st.write(f"""
     <div class="title" style="text-align: center;">
-    <span style='font-size: 32px;'>Hello! My name is Dmytro Skover</span>👋
+    <span style='font-size: 32px;'>Hello! We are Sleep Factory!</span>👋
     </div>
     """, unsafe_allow_html=True)
     st.markdown('<style>div.block-container{padding-top:3rem;}</style>',unsafe_allow_html=True)
@@ -85,9 +85,10 @@ def web_portfolio():
     st.subheader("About Me")
 
     st.markdown("""
-    - 👦 My name is Dmytro Skover 
-    - 🏠 I live in Norway 🇸🇯
-    - 🏢 l study in Ukrainian🇺🇦 university """)
+    - We are here to improve your sleeping quality experience.
+    - We want to help you to fight your insomnia, lack of sleeping and prevent waking up at night.
+    - You can comtact our manager Anna (+4796667763)
+    - YOU can be our testing person, can help us to improve our product's quality and make it better for our customers!""")
 
     st.write("##")
 
